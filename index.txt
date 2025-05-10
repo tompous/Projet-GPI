@@ -2,3 +2,10 @@
  exécuter la commande git commit-m "message"-a.
  A CHAQUE FOIS QUE VOUS FAITES UN
  COMMIT METTEZ TOUJOURS LE MESSAGE
+
+--------- Ajout de la nouvelle Ligne -----------
+
+Lancervotregitbash, saisir lacommandepermettantde
+ créerunrépertoireProjet1mkdirProjet1
+ rassurerquelerepertoireaétébiencrééedirouls
+ sepositionnerdanscerépertoirecdprojet1
