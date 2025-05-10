@@ -1,9 +1,1 @@
- pour mettre les chiers dans la zone d'historisation, il faut
- exécuter la commande git commit-m "message"-a.
- A CHAQUE FOIS QUE VOUS FAITES UN
- COMMIT METTEZ TOUJOURS LE MESSAGE
-
---------- Modificarion de la nouvelle Ligne ----------
-
-<prises d'identifier, d'analyser et de traiter les risques menaçant leurs systèmes informatiques.
-
+Bonsoir tout le monde!
