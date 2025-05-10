@@ -3,9 +3,7 @@
  A CHAQUE FOIS QUE VOUS FAITES UN
  COMMIT METTEZ TOUJOURS LE MESSAGE
 
---------- Ajout de la nouvelle Ligne -----------
+--------- Modificarion de la nouvelle Ligne ----------
 
-Lancervotregitbash, saisir lacommandepermettantde
- créerunrépertoireProjet1mkdirProjet1
- rassurerquelerepertoireaétébiencrééedirouls
- sepositionnerdanscerépertoirecdprojet1
+<prises d'identifier, d'analyser et de traiter les risques menaçant leurs systèmes informatiques.
+
