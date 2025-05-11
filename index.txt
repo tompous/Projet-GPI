@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bienvenue dans le Programme DESS de UNITECH.
+=======
+Salut tout le monde!
+>>>>>>> Nouvelle-Fonction
